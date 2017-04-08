@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-With-Spring-Student-Files.iml" filepath="$PROJECT_DIR$/.idea/Microservices-With-Spring-Student-Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/eureka-server/commmon-eureka-server.iml" filepath="$PROJECT_DIR$/common/eureka-server/commmon-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/config-server/common-config-server.iml" filepath="$PROJECT_DIR$/common/config-server/common-config-server.iml" />
+    </modules>
+  </component>
+</project>
